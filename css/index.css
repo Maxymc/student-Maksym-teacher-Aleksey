@@ -1,0 +1,91 @@
+body {
+  font-family: "Poppins", "Times New Roman";
+}
+.header-tytle {
+  color: #000000;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+.header-lists-item a {
+  color: #7a7a7a;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  text-decoration: none;
+}
+.header-lists-item {
+  list-style: none;
+}
+.header-1lists-item a {
+  color: #57a2f9;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  text-decoration: none;
+}
+.header-1lists-item {
+  list-style: none;
+}
+.Sunglasses-1pack-title {
+  color: #000000;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 56px;
+}
+.sunglasses-pack-item p {
+  color: #000000;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.sunglasses-pack-item {
+  list-style: none;
+}
+.sunglasses-1pack-title {
+  color: #000000;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+}
+footer {
+  background-color: #090808;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.about-us-title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+}
+.contact {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+}
+.telephone {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.information-email {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.adress-information {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.policy {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+}
+footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
